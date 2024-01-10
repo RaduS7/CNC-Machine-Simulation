@@ -1,0 +1,1 @@
+A simple Python app that reads commands for drawing arcs and lines from a txt file, transforms them to JSON and then creates a server that serves an html file conatining the cutting animation on a grid.
